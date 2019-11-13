@@ -20,3 +20,55 @@
 .App-link {
   color: #09d3ac;
 }
+
+h1, h2, h3, h4, h5{
+  font-family: 'Lora', serif !important;
+}
+
+p, a {
+  font-family: 'Merriweather', serif !important;
+}
+
+#wrapper{
+  max-width:960px;
+  margin: 0 auto;
+  background-color: #F9F9F3;
+  z-index: 3;
+}
+
+@media only screen and (min-width: 1240px){
+  #wrapper{
+    max-width: 1240px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  h2, h1{
+    font-size: 26px !important;
+  }
+
+  .header p{
+    font-size: 16px !important;
+  }
+
+  .header a{
+    padding:15px 25px !important;
+  }
+
+  .header{
+    height: 250px !important;
+  }
+
+  h3{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+  }
+
+  .title{
+    padding: 35px 0 !important;
+  }
+
+  .text{
+    justify-content: center !important;
+  }
+}
