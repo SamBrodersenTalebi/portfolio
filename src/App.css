@@ -59,16 +59,7 @@ p, a {
     height: 250px !important;
   }
 
-  h3{
-    font-size: 20px !important;
-    font-weight: 700 !important;
-  }
-
   .title{
     padding: 35px 0 !important;
-  }
-
-  .text{
-    justify-content: center !important;
   }
 }

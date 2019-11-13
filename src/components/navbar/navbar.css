@@ -1,6 +1,6 @@
 .bg-color{
   background-color: #6D6C70;
-  min-height: 150px;
+  height: 150px;
   position: relative;
 }
 
@@ -12,7 +12,7 @@
 
 .topnav{
   overflow: hidden;
-  background-color: #7395AE;
+  background-color:#66879F ;
 }
 
 .topnav a{
@@ -25,6 +25,22 @@
 }
 
 .topnav a:hover{
-  background-color: #557A95;
+  background-color: #7395AE;
   color: rgb(33,37,41);
 }
+
+@media only screen and (max-width: 432px){
+  .topnav{
+    border-radius: 50px 20px;
+  }
+
+  .topnav a{
+    font-size: 13.5px;
+  }
+
+  .bg-color{
+    height: 110px;
+  }
+}
+
+

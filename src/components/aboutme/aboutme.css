@@ -28,9 +28,13 @@
 
     .text h3{
         margin: 0 auto;
+        font-size: 24px;
+        font-weight: 550;
     }
 
     .text{
         flex-wrap: wrap;
+        justify-content: center !important;
     }
+
 }
