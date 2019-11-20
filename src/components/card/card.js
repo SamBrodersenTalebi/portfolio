@@ -7,10 +7,11 @@ export default class CardBox extends React.Component{
     render(){
         return(
             <Card shadow={5} style={{minWidth:'450', margin:'auto'}} className="card">
-                <CardTitle id={this.props.object.id} style={{color:"#196195", height:'176px'}} className="card-title">
-                    {this.props.object.projectname}
+                <CardTitle id={this.props.object.id} style={{height:'176px'}} className="card-title">
+                    <a target="_blank" href={this.props.object.link} id="link"></a>
                 </CardTitle>
-                <CardText style={{height:'100px', margin:"auto"}}>
+                <CardText style={{height:'150px', margin:"auto"}}>
+                    <h4 style={{color:"#387db1",marginTop:"0px"}}>{this.props.object.projectname}</h4>
                     {this.props.object.description}
                 </CardText>
                 <CardActions>

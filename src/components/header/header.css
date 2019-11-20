@@ -1,7 +1,7 @@
 .header{
   height: 300px;
   width: 100%;
-  background-color: #557A95;
+  background-color:#387db1;
   margin: 0 auto;
   text-align: center;
   padding-top: 150px;
@@ -24,9 +24,9 @@
 }
 
 .header a{
-  color:#F9F9F3;
+  color:#141414;
   font-weight: 700;
-  background-color: #6D6C70;
+  background-color: #cbd4db;
   border-color:inherit;
   text-decoration:none;
   border-radius:15px 50px;
@@ -34,5 +34,9 @@
 }
 
 .header a:hover{
-  color: rgb(33,37,41);
+  color: #387db1;
 }
+
+/*
+ #e0ebe8
+*/

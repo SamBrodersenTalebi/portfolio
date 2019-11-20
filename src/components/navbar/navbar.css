@@ -1,5 +1,5 @@
 .bg-color{
-  background-color: #6D6C70;
+  background-color: #cbd4db;
   height: 150px;
   position: relative;
 }
@@ -12,7 +12,7 @@
 
 .topnav{
   overflow: hidden;
-  background-color:#66879F ;
+  background-color:#387db1 ;
 }
 
 .topnav a{
@@ -25,8 +25,8 @@
 }
 
 .topnav a:hover{
-  background-color: #7395AE;
-  color: rgb(33,37,41);
+  background-color: #6493b4;
+  color: #141414;
 }
 
 @media only screen and (max-width: 432px){
@@ -41,6 +41,17 @@
   .bg-color{
     height: 110px;
   }
+}
+
+@media only screen and (max-width: 375px){
+  .bg-color{
+    height:150px;
+  }
+
+  .topnav a{
+    font-size: 12px;
+  }
+
 }
 
 

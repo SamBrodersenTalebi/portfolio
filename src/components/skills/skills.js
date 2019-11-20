@@ -8,7 +8,7 @@ export default class Skills extends Component{
     this.state = {
       data: [
         {
-          "language": "Javascript",
+          "language": "Javascript/jQuery",
           "level": "80%"
         },
         {
@@ -28,7 +28,7 @@ export default class Skills extends Component{
           "level": "60%"
         },
         {
-          "language": "SQL",
+          "language": "MySQL",
           "level": "30%"
         }
       ]
@@ -44,7 +44,7 @@ export default class Skills extends Component{
 
     return(
       <div className="skills" id="Skills">
-        <h2 className="title">My skills</h2>
+        <h2 className="title">Skills</h2>
         <div className="skillList">
           {skills}
         </div>

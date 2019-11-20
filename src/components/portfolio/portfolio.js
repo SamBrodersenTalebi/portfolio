@@ -20,7 +20,7 @@ export default class Portfolio extends React.Component{
               {
                 "projectname":"Film Festival",
                 "id":"O2",
-                "description": "Created a static website based on requirements specified in the project. I used Bootstrap to build responsive  website that contained pre-registration page. Created a project brief that outlined a summary of what work needed to be done.",
+                "description": "Created a static website using Bootstrap. The website contained pre-registration page (not functional). In addition created a project brief that outlined a summary of what work needed to be done.",
                 "image": "../portfolio/images/Brooklyn.PNG",
                 "link": "https://github.com/SamBrodersenTalebi/filmfestival"
               },
