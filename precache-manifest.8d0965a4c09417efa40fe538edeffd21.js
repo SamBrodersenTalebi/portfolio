@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a43f2d1f7bd69df4ae9508e765373c8",
+    "revision": "1d36183e983804abd2173ec45c866aaf",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.559fd73f.chunk.css"
   },
   {
-    "revision": "88947b65c987e080d75a",
-    "url": "/portfolio/static/css/main.c68f6c5a.chunk.css"
+    "revision": "84714f24a68ab9da6966",
+    "url": "/portfolio/static/css/main.d3cfd55b.chunk.css"
   },
   {
     "revision": "370318e74ee7391370f9",
     "url": "/portfolio/static/js/2.589fc118.chunk.js"
   },
   {
-    "revision": "88947b65c987e080d75a",
+    "revision": "84714f24a68ab9da6966",
     "url": "/portfolio/static/js/main.21cfa21f.chunk.js"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Ravenous.90affcd1.PNG"
   },
   {
-    "revision": "1cf68f6d83feac9d82f18397c6940425",
-    "url": "/portfolio/static/media/ResReview.1cf68f6d.PNG"
+    "revision": "3080bc07ad27b9ed9bff3e36e2497c51",
+    "url": "/portfolio/static/media/Restaurant.3080bc07.PNG"
   },
   {
     "revision": "400eee4c02214625db4bfaca0851ab11",
