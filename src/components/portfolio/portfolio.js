@@ -27,7 +27,7 @@ export default class Portfolio extends React.Component{
               {
                 "projectname":"Restaurant Review Site",
                 "id":"O3",
-                "description": "Currently working on the project. I need to launch a review site using Reactjs and use an external API to fecth restaurant and reviews",
+                "description": "Launch a review site using Reactjs and use an external API to fecth restaurant and reviews.",
                 "image": "",
                 "link": "https://github.com/SamBrodersenTalebi/p7"
               }

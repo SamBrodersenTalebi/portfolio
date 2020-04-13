@@ -4,16 +4,16 @@
 }
 
 .bar{
-  background:black;
+  background:#ddd;
   display: block;
-  height:2px;
-  border: 1px solid rgba(0,0,0,0.3);
+  height:8px;
+  border: 1px solid black;
   border-radius: 3px;
   overflow: hidden;
 }
 
 .bar span{
-  height: 2px;
+  height: 8px;
   float: left;
   background: #2187e7;
 }

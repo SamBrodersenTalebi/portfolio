@@ -8,27 +8,35 @@ export default class Skills extends Component{
     this.state = {
       data: [
         {
-          "language": "Javascript/jQuery",
+          "language": "JavaScript/jQuery",
           "level": "80%"
         },
         {
-          "language": "CSS",
-          "level": "80%"
-        },
-        {
-          "language": "HTML5",
+          "language": "HTML / CSS",
           "level": "90%"
         },
         {
-          "language": "Python",
+          "language": "Git",
+          "level": "70%"
+        },
+        {
+          "language": "Python/Django",
+          "level": "40%"
+        },
+        {
+          "language": "ExpressJS",
+          "level": "60%"
+        },
+        {
+          "language": "MongoDB/PostgreSQL",
           "level": "30%"
         },
         {
           "language": "ReactJS",
-          "level": "60%"
+          "level": "80%"
         },
         {
-          "language": "MySQL",
+          "language": "Jest",
           "level": "30%"
         }
       ]

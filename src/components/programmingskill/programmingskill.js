@@ -12,8 +12,8 @@ export default class ProgrammingSkill extends Component{
     return(
       <li className="list-skill">
         <h5>{this.props.skills.language} </h5>
-        <span className="bar">
-          <span style = {style}>
+        <span className=" container-skill  bar">
+          <span className='skills' style = {style}>
           </span>
         </span>
       </li>
