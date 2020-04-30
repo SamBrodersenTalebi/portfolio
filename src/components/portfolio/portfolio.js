@@ -113,7 +113,7 @@ export default class Portfolio extends React.Component{
 
   render(){
       return(
-        <div className="tab" id="Projects">
+        <div className="tab" id="Portfolio">
             <div>
             <h2 className="title">Portfolio</h2>
             </div>
