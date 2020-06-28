@@ -11,7 +11,7 @@ export default class Header extends Component {
         <p>
           {' '}
           Web developer passionate about building web apps. <br /> Mainly use
-          the MERN stack, but proficient with Python/Django as well
+          the MERN stack, but proficient with Python/Django as well.
         </p>
         <a href='#Portfolio'>Portfolio</a>
       </header>
