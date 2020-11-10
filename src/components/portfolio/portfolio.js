@@ -75,7 +75,7 @@ export default class Portfolio extends React.Component {
           projectname: 'Blog App',
           id: 'S1',
           description:
-            'Created a MERN app where a user can add, delete, comment and like blog posts. In order to use all functionalities a user must login. View video of app at: https://streamable.com/xm780m',
+            'Created a MERN app where a user can add, delete, comment and like blog posts. In order to use all functionalities a user must login.',
           image: '../portfolio/images/blogApp.PNG',
           link: 'https://github.com/SamBrodersenTalebi/blogAppFrontend',
         },
