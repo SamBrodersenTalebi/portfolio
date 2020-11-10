@@ -8,12 +8,12 @@ export default class Skills extends Component {
     this.state = {
       data: [
         {
-          language: 'JavaScript/HTML/CSS',
+          language: 'JavaScript/jQuery',
           level: '80%',
         },
         {
           language: 'AWS',
-          level: '40%',
+          level: '50%',
         },
         {
           language: 'Git',
@@ -21,7 +21,7 @@ export default class Skills extends Component {
         },
         {
           language: 'Python/Django',
-          level: '40%',
+          level: '30%',
         },
         {
           language: 'ExpressJS/GraphQL',
@@ -36,8 +36,8 @@ export default class Skills extends Component {
           level: '80%',
         },
         {
-          language: 'Jest/Cypress',
-          level: '30%',
+          language: 'HTML/CSS',
+          level: '80%',
         },
       ],
     };
