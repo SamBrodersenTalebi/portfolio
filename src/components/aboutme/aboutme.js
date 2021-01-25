@@ -12,7 +12,7 @@ export default class AboutMe extends Component {
             <p>
               I firstly started coding at Udacity where I enrolled the course
               "Introduction to Programming". I learned the basics of programming
-              through HTML, CSS and Python.
+              using HTML, CSS and Python.
             </p>
           </div>
           <div className='text'>
@@ -34,7 +34,7 @@ export default class AboutMe extends Component {
               through the projects. Each project consists of context details and
               customer requirements. In doing the projects I have improved my
               innovative ability as you have to come up with creative solutions
-              to the requirement of the project.
+              to complete the requirements of the projects.
             </p>
           </div>
         </div>
